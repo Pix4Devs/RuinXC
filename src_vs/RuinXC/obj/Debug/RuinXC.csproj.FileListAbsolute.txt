@@ -1,0 +1,14 @@
+C:\Users\31628\source\repos\RuinXC\RuinXC\bin\Debug\RuinXC.exe.config
+C:\Users\31628\source\repos\RuinXC\RuinXC\bin\Debug\RuinXC.exe
+C:\Users\31628\source\repos\RuinXC\RuinXC\bin\Debug\RuinXC.pdb
+C:\Users\31628\source\repos\RuinXC\RuinXC\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\31628\source\repos\RuinXC\RuinXC\bin\Debug\WebDriver.dll
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Debug\RuinXC.csproj.AssemblyReference.cache
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Debug\RuinXC.csproj.SuggestedBindingRedirects.cache
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Debug\RuinXC.RuinXC.resources
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Debug\RuinXC.Properties.Resources.resources
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Debug\RuinXC.csproj.GenerateResource.cache
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Debug\RuinXC.csproj.CoreCompileInputs.cache
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Debug\RuinXC.csproj.CopyComplete
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Debug\RuinXC.exe
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Debug\RuinXC.pdb

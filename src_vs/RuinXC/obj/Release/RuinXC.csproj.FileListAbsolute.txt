@@ -1,0 +1,15 @@
+C:\Users\31628\source\repos\RuinXC\RuinXC\bin\Release\RuinXC.exe.config
+C:\Users\31628\source\repos\RuinXC\RuinXC\bin\Release\RuinXC.exe
+C:\Users\31628\source\repos\RuinXC\RuinXC\bin\Release\RuinXC.pdb
+C:\Users\31628\source\repos\RuinXC\RuinXC\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\31628\source\repos\RuinXC\RuinXC\bin\Release\SeleniumExtras.WaitHelpers.dll
+C:\Users\31628\source\repos\RuinXC\RuinXC\bin\Release\WebDriver.dll
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Release\RuinXC.csproj.AssemblyReference.cache
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Release\RuinXC.csproj.SuggestedBindingRedirects.cache
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Release\RuinXC.RuinXC.resources
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Release\RuinXC.Properties.Resources.resources
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Release\RuinXC.csproj.GenerateResource.cache
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Release\RuinXC.csproj.CoreCompileInputs.cache
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Release\RuinXC.csproj.CopyComplete
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Release\RuinXC.exe
+C:\Users\31628\source\repos\RuinXC\RuinXC\obj\Release\RuinXC.pdb
