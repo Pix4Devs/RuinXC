@@ -22,3 +22,6 @@ Chrome Version 100,101 or 102
 
 **Attention**
 The speed is depended on your internet speed and GPU/CPU once you have setup alot of threads.
+
+### Support
+For any question or problem you can join our discord server: <a href="https://pix4.dev/discord">Discord</a>
